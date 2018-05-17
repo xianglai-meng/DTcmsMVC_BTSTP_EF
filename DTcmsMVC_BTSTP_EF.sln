@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTcmsMVC_BTSTP_EF", "DTcmsMVC_BTSTP_EF\DTcmsMVC_BTSTP_EF.csproj", "{0F739D98-5FA3-4807-843B-01E0EA0F54CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F739D98-5FA3-4807-843B-01E0EA0F54CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F739D98-5FA3-4807-843B-01E0EA0F54CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F739D98-5FA3-4807-843B-01E0EA0F54CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F739D98-5FA3-4807-843B-01E0EA0F54CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBAD516-6D07-4B9A-B426-C79E75F696D1}
+	EndGlobalSection
+EndGlobal
